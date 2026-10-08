@@ -1,0 +1,6 @@
+print("Welcome to My Python Application")
+
+name = input("Enter your name: ")
+
+print("Hello", name)
+print("Thank you for using my application!")
